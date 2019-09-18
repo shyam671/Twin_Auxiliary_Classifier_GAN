@@ -20,6 +20,9 @@ deviations of 1, 2, and 3, respectively.
 
         [Left]: Result of Auxiliary Classifiers GAN                [Right]: Result of Twin Auxiliary Classifiers GAN
 
+#### Todo List
+- [ ] Implementing Projection cGAN.
+- [ ]
 
 ### Acknowledgements
 * https://github.com/wiseodd
