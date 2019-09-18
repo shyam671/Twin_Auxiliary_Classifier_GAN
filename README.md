@@ -18,7 +18,7 @@ deviations of 1, 2, and 3, respectively.
 #### Results
 ![Drag Racing](final.gif)
 
-                 [Left]: Result of VanillaGAN                [Right]: Result of MAD-GAN (number of generator = 4)
+                 [Left]: Result of Auxiliary Classifiers GAN                [Right]: Result of Twin Auxiliary Classifiers GAN
 
 
 ### Acknowledgements
