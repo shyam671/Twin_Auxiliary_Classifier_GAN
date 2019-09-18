@@ -24,4 +24,5 @@ deviations of 1, 2, and 3, respectively.
 ### Acknowledgements
 * https://github.com/wiseodd
 
-* Twin Auxilary Classifiers GAN Mingming Gong (University of Melbourne) · Yanwu Xu (University of Pittsburgh) · Chunyuan Li (Microsoft Research) · Kun Zhang (CMU) · Kayhan Batmanghelich (University of Pittsburgh) (https://arxiv.org/abs/1907.02690v2)
+* Twin Auxiliary Classifiers GAN. Mingming Gong*, Yanwu Xu*, Chunyuan Li, Kun Zhang, and Kayhan Batmanghelich.
+In Proceedings of 33rd Conference on Neural Information Processing Systems (NeurIPS 2019).(Spotlight).(https://arxiv.org/abs/1907.02690v2)
