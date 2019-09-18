@@ -22,7 +22,9 @@ deviations of 1, 2, and 3, respectively.
 
 #### Todo List
 - [ ] Implementing Projection cGAN.
-- [ ]
+- [ ] Implementing all the GANs with hinge loss.
+- [ ] MMD evaluation for quantitative results.
+- [ ] Experiments with CIFAR-100 and Overlapping MNIST
 
 ### Acknowledgements
 * https://github.com/wiseodd
