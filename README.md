@@ -1,5 +1,5 @@
 # Twin Auxiliary Classifier GAN
-
+![Drag Racing](TACGAN.png)
 #### Requirements
 
 * pytorch >=0.4.0
